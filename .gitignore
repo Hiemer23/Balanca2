@@ -1,0 +1,10 @@
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-bak
+*_autosave
+*.bck
+*.dcm
+*.kicad_prl
+fp-info-cache
+.history/
