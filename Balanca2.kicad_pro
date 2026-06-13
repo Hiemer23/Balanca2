@@ -51,21 +51,21 @@
         "silk_text_upright": false,
         "zones": {
           "border_display_style": 2,
-          "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "border_hatch_pitch": 1.0,
+          "corner_radius": 2.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 1.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 1,
-          "thermal_relief_gap": 0.5,
+          "thermal_relief_gap": 1.0,
           "thermal_relief_spoke_width": 0.5
         }
       },
@@ -146,12 +146,12 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.5,
+        "min_clearance": 0.7,
         "min_connection": 0.5,
         "min_copper_edge_clearance": 1.5,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.5,
-        "min_hole_to_hole": 0.2,
+        "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -161,7 +161,7 @@
         "min_through_hole_diameter": 1.0,
         "min_track_width": 0.5,
         "min_via_annular_width": 0.5,
-        "min_via_diameter": 1.0,
+        "min_via_diameter": 2.0,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -260,7 +260,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "3"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -713,7 +713,7 @@
         "uuid": "17706263-dff1-405c-96f5-c6c41b8cc07f"
       }
     ],
-    "used_designators": "C2-15,#PWR5-6,#PWR27,#PWR33-34,#PWR39-55,R5-6",
+    "used_designators": "#FLG5-6,R3,R7-12,C1,C16-17,D3-4,#PWR4,#PWR8-9,#PWR11,#PWR20,#PWR35,#PWR52,#PWR56-62",
     "variants": []
   },
   "sheets": [
