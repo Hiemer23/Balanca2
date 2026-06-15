@@ -6928,6 +6928,16 @@
 		)
 		(uuid "23c9474a-082c-4914-a84a-9a25b0f9f707")
 	)
+	(label "SaídaBuffer"
+		(at 69.85 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3d51eb27-4de8-4177-9b53-2e759f241707")
+	)
 	(label "SaidaDemodulada"
 		(at 33.02 232.41 180)
 		(effects
@@ -16471,7 +16481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 194.818 217.17 90)
 			(hide yes)
 			(show_name no)
