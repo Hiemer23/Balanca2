@@ -5367,6 +5367,12 @@
 		(uuid "1c3530f3-3ddc-4363-92a7-a9b94a74dc8a")
 	)
 	(junction
+		(at 153.67 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25d30099-275d-481b-881a-5db30ca9f587")
+	)
+	(junction
 		(at 146.05 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5418,7 +5424,7 @@
 		(at 76.2 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5246f749-4dba-4be3-9735-52a734867129")
+		(uuid "568245fe-08e9-41ac-8eca-4c2f9db82f07")
 	)
 	(junction
 		(at 90.17 123.19)
@@ -5457,6 +5463,12 @@
 		(uuid "7fbed624-04b0-4206-9520-1af755a7c9a3")
 	)
 	(junction
+		(at 165.1 226.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "813012b6-0df3-4cc6-9523-255da58c8e09")
+	)
+	(junction
 		(at 185.42 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5467,12 +5479,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91b6a9b0-70b8-474e-9ce1-cfc389c768b0")
-	)
-	(junction
-		(at 149.86 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9fd1d931-f2ec-4168-8d56-70a1e781010c")
 	)
 	(junction
 		(at 69.85 121.92)
@@ -5497,12 +5503,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c50591a3-31dd-4904-87a5-7540441a6135")
-	)
-	(junction
-		(at 165.1 198.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d23682da-4d57-411a-b116-295026c85667")
 	)
 	(junction
 		(at 76.2 63.5)
@@ -5620,6 +5620,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 218.44) (xy 156.21 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c0b1bfa-10b5-4208-8b30-d3c8bd77766b")
+	)
+	(wire
+		(pts
 			(xy 24.13 55.88) (xy 24.13 58.42)
 		)
 		(stroke
@@ -5730,6 +5740,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 226.06) (xy 165.1 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b12ff4-b8c8-45cd-b47d-58150dbb96f8")
+	)
+	(wire
+		(pts
 			(xy 49.53 63.5) (xy 55.88 63.5)
 		)
 		(stroke
@@ -5797,6 +5817,16 @@
 			(type default)
 		)
 		(uuid "2e66dd8a-830f-4161-9a04-32e6b6187faa")
+	)
+	(wire
+		(pts
+			(xy 176.53 218.44) (xy 165.1 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3021377e-6ffa-4d8c-a538-67fc88aa0f7a")
 	)
 	(wire
 		(pts
@@ -5877,26 +5907,6 @@
 			(type default)
 		)
 		(uuid "3f6bca03-d608-48e8-8f6e-3dede6e535f4")
-	)
-	(wire
-		(pts
-			(xy 261.62 87.63) (xy 261.62 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "422fee4b-f55b-4015-95e1-5b39accf16a8")
-	)
-	(wire
-		(pts
-			(xy 175.26 218.44) (xy 176.53 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42d25f75-00c9-4a2d-b5e0-632889d7a8ed")
 	)
 	(wire
 		(pts
@@ -6050,6 +6060,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 218.44) (xy 165.1 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60a4e138-3b42-4f5e-8096-af491caeedfe")
+	)
+	(wire
+		(pts
 			(xy 218.44 66.04) (xy 215.9 66.04)
 		)
 		(stroke
@@ -6060,6 +6080,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 46.99) (xy 121.92 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63f29af8-2f68-4db5-83d4-785fdf3d1d93")
+	)
+	(wire
+		(pts
 			(xy 88.9 123.19) (xy 90.17 123.19)
 		)
 		(stroke
@@ -6067,16 +6097,6 @@
 			(type default)
 		)
 		(uuid "64aab95e-187c-43c6-8501-74874283d10e")
-	)
-	(wire
-		(pts
-			(xy 167.64 198.12) (xy 165.1 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68f56511-3ea0-4e23-8697-7617e52aeb4c")
 	)
 	(wire
 		(pts
@@ -6207,6 +6227,16 @@
 			(type default)
 		)
 		(uuid "7643fd6b-db64-4147-b840-243be2d359bb")
+	)
+	(wire
+		(pts
+			(xy 153.67 219.71) (xy 156.21 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "766e33b4-1c2b-44e6-84da-548f6675282a")
 	)
 	(wire
 		(pts
@@ -6470,6 +6500,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 198.12) (xy 156.21 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5367453-8eb5-472c-8309-15bb3c77ff12")
+	)
+	(wire
+		(pts
 			(xy 74.93 227.33) (xy 74.93 234.95)
 		)
 		(stroke
@@ -6517,6 +6557,16 @@
 			(type default)
 		)
 		(uuid "c0596e62-48db-4007-806b-19d26cd40a71")
+	)
+	(wire
+		(pts
+			(xy 166.37 198.12) (xy 167.64 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4e135a3-c328-45a3-967c-b4f9fb7a9e29")
 	)
 	(wire
 		(pts
@@ -6590,6 +6640,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 226.06) (xy 153.67 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca1de9ed-2848-45ad-b520-acee1eaa7058")
+	)
+	(wire
+		(pts
 			(xy 148.59 54.61) (xy 146.05 54.61)
 		)
 		(stroke
@@ -6607,6 +6667,16 @@
 			(type default)
 		)
 		(uuid "cd148318-53f2-4432-9528-113020a3ea34")
+	)
+	(wire
+		(pts
+			(xy 176.53 237.49) (xy 165.1 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdae3adf-b250-4c8b-b4fb-153b70c47f3a")
 	)
 	(wire
 		(pts
@@ -6637,16 +6707,6 @@
 			(type default)
 		)
 		(uuid "d240eaa8-ff29-4e47-b0ac-782fadd2c41d")
-	)
-	(wire
-		(pts
-			(xy 251.46 80.01) (xy 261.62 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3cbadf9-19a3-4431-8ac5-4b72d31dce01")
 	)
 	(wire
 		(pts
@@ -6740,6 +6800,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 226.06) (xy 165.1 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e713cbe8-bcf5-4a31-b370-b0444f27b85b")
+	)
+	(wire
+		(pts
 			(xy 199.39 55.88) (xy 205.74 55.88)
 		)
 		(stroke
@@ -6820,16 +6890,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 46.99) (xy 121.92 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f35ff1ad-f7ce-4942-a993-4dc061d55b36")
-	)
-	(wire
-		(pts
 			(xy 33.02 41.91) (xy 35.56 41.91)
 		)
 		(stroke
@@ -6837,26 +6897,6 @@
 			(type default)
 		)
 		(uuid "f79b4be8-79f8-4432-8d3d-9adfd351d5ba")
-	)
-	(wire
-		(pts
-			(xy 251.46 80.01) (xy 251.46 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9f48912-57ec-4812-9e32-015a3adca88a")
-	)
-	(wire
-		(pts
-			(xy 176.53 237.49) (xy 175.26 237.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbc9f67b-5789-4fee-a477-278e64e23e14")
 	)
 	(wire
 		(pts
@@ -6927,6 +6967,16 @@
 			(justify left bottom)
 		)
 		(uuid "23c9474a-082c-4914-a84a-9a25b0f9f707")
+	)
+	(label "SaidaPrimeiroEstagioA"
+		(at 121.92 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "29980b1f-61c2-428a-990f-b4c6cb90098c")
 	)
 	(label "SaídaBuffer"
 		(at 69.85 129.54 180)
@@ -7029,7 +7079,7 @@
 		(uuid "646d701f-4770-482a-b108-7e42f843f633")
 	)
 	(label "SaidaPrimeiroEstagio"
-		(at 121.92 40.64 180)
+		(at 120.65 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7089,7 +7139,7 @@
 		(uuid "8335f8e7-eaac-4428-b75e-3aed9edad01c")
 	)
 	(label "CelulaCargaAlimentacaoV+"
-		(at 175.26 218.44 180)
+		(at 156.21 218.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7128,16 +7178,6 @@
 		)
 		(uuid "b2a27cab-6471-4f39-8177-b56315dfad36")
 	)
-	(label "CelulaCargaAlimentacaoV+"
-		(at 175.26 237.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bf783461-0dfd-495e-8e89-70914829b10c")
-	)
 	(label "SaidaBalanca"
 		(at 77.47 234.95 0)
 		(effects
@@ -7148,13 +7188,13 @@
 		)
 		(uuid "c2d5a578-0bd5-42ff-a462-2d7b2c84b2a1")
 	)
-	(label "SaidaPrimeiroEstagio"
-		(at 251.46 80.01 0)
+	(label "SaidaPrimeiroEstagioA"
+		(at 240.03 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "d8dbd5db-1ea5-4c07-a4d4-3f3967e5c78f")
 	)
@@ -7187,6 +7227,16 @@
 			(justify right bottom)
 		)
 		(uuid "ed4935a4-cdc3-4a0c-a28e-1b94a0e01a95")
+	)
+	(label "SaidaPrimeiroEstagio"
+		(at 250.19 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef6c81a3-3c1f-4bd9-9065-cd0e2ac83c97")
 	)
 	(label "SinalSaida-"
 		(at 31.75 157.48 0)
@@ -7240,7 +7290,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 165.1 201.93 0)
+		(at 153.67 201.93 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7251,7 +7301,7 @@
 		(dnp no)
 		(uuid "00330512-1da8-4b74-bcc7-22d07bc13f36")
 		(property "Reference" "C14"
-			(at 161.29 200.6599 0)
+			(at 149.86 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7262,7 +7312,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 161.29 203.1999 0)
+			(at 149.86 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7273,7 +7323,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 166.0652 198.12 0)
+			(at 154.6352 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7284,7 +7334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 201.93 0)
+			(at 153.67 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7295,7 +7345,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 165.1 201.93 0)
+			(at 153.67 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8089,6 +8139,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:Jumper_2_Bridged")
+		(at 161.29 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "124aefb5-5efd-4fa3-949a-7c1a66b53a9d")
+		(property "Reference" "JP9"
+			(at 161.29 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Bridged"
+			(at 161.29 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
+			(at 161.29 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 161.29 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5552d003-9aca-4850-8a52-b53231d965ae")
+		)
+		(pin "1"
+			(uuid "6afa65c7-b882-4159-abd3-016de03cc577")
+		)
+		(instances
+			(project "Balanca2"
+				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
+					(reference "JP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Comparator:LM393")
 		(at 184.15 234.95 0)
 		(mirror x)
@@ -8610,7 +8740,7 @@
 	)
 	(symbol
 		(lib_id "power:+15V")
-		(at 165.1 198.12 0)
+		(at 153.67 198.12 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8622,7 +8752,7 @@
 		(fields_autoplaced yes)
 		(uuid "22abe508-5a83-48ef-8cba-1cd9d2b3957e")
 		(property "Reference" "#PWR020"
-			(at 165.1 201.93 0)
+			(at 153.67 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8633,7 +8763,7 @@
 			)
 		)
 		(property "Value" "+15V"
-			(at 165.1 193.04 0)
+			(at 153.67 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8643,7 +8773,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 198.12 0)
+			(at 153.67 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8654,7 +8784,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 198.12 0)
+			(at 153.67 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8665,7 +8795,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+15V\""
-			(at 165.1 198.12 0)
+			(at 153.67 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10268,84 +10398,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 149.86 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "432cf817-434a-472d-8f7e-92e5e80cd574")
-		(property "Reference" "#PWR042"
-			(at 149.86 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 149.86 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 149.86 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "52a2d90c-b427-4e79-b964-7c284b536869")
-		)
-		(instances
-			(project "Balanca2"
-				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
-					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 90.17 127 180)
 		(unit 1)
@@ -10703,7 +10755,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 205.74 0)
+		(at 153.67 205.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10714,7 +10766,7 @@
 		(fields_autoplaced yes)
 		(uuid "4bdbfa5f-e9b2-4e03-804b-f80817b1e4a1")
 		(property "Reference" "#PWR054"
-			(at 165.1 212.09 0)
+			(at 153.67 212.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10725,7 +10777,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 210.82 0)
+			(at 153.67 210.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10735,7 +10787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 205.74 0)
+			(at 153.67 205.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10746,7 +10798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 205.74 0)
+			(at 153.67 205.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10757,7 +10809,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 205.74 0)
+			(at 153.67 205.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10852,6 +10904,86 @@
 			(project "Balanca2"
 				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Bridged")
+		(at 158.75 226.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4ce36b47-8c78-4e2d-b4d5-6ad6a72660f4")
+		(property "Reference" "JP8"
+			(at 158.75 220.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Bridged"
+			(at 158.75 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:TestPoint_Bridge_Pitch6.35mm_Drill1.3mm"
+			(at 158.75 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 158.75 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d26ad03c-99a2-4ee4-9cdb-7b700a1ec2d1")
+		)
+		(pin "1"
+			(uuid "9d6189d0-1a84-4cb2-80e7-d2810522dcf7")
+		)
+		(instances
+			(project "Balanca2"
+				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
+					(reference "JP8")
 					(unit 1)
 				)
 			)
@@ -11166,88 +11298,6 @@
 			(project "Balanca2"
 				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 149.86 123.19 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "56e5205a-6b41-40f8-a27d-5f42e49ad32b")
-		(property "Reference" "C8"
-			(at 146.05 121.9199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 146.05 124.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 150.8252 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 149.86 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0efbab06-1817-429f-b964-12e8f2b222de")
-		)
-		(pin "1"
-			(uuid "f2737a43-683c-4a98-a443-3f1401548022")
-		)
-		(instances
-			(project "Balanca2"
-				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -13713,7 +13763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 87.63 204.978 90)
 			(hide yes)
 			(show_name no)
@@ -13991,6 +14041,86 @@
 			(project "Balanca2"
 				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
 					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Bridged")
+		(at 245.11 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a0040304-1728-4737-b628-7c46db63e3f3")
+		(property "Reference" "JP10"
+			(at 245.11 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Bridged"
+			(at 245.11 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:TestPoint_Bridge_Pitch7.62mm_Drill1.3mm"
+			(at 245.11 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 245.11 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "98582790-998e-46c2-a67c-bec1b1942b18")
+		)
+		(pin "1"
+			(uuid "a2673a31-aa22-4aee-8f5d-c02e0f0fbf4b")
+		)
+		(instances
+			(project "Balanca2"
+				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
+					(reference "JP10")
 					(unit 1)
 				)
 			)
@@ -16232,7 +16362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 74.93 113.538 90)
 			(hide yes)
 			(show_name no)
@@ -17003,88 +17133,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 76.2 43.18 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e31342c0-0220-4db0-968f-66aee90d0507")
-		(property "Reference" "C4"
-			(at 79.502 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "C_Polarized"
-			(at 79.756 45.466 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
-			(at 75.2348 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 76.2 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "51919dd7-d1bd-4437-946e-afedef377eed")
-		)
-		(pin "2"
-			(uuid "938ee6c5-3d6b-4756-a87c-bf16f61abaaf")
-		)
-		(instances
-			(project "Balanca2"
-				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:-15V")
 		(at 161.29 154.94 0)
 		(mirror y)
@@ -17515,86 +17563,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Bridged")
-		(at 256.54 87.63 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f16ca061-1b19-40d6-9cb3-403a564acd80")
-		(property "Reference" "JP7"
-			(at 256.54 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Bridged"
-			(at 256.54 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill0.7mm"
-			(at 256.54 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, closed/bridged"
-			(at 256.54 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b9ccdebf-89cf-4c8e-8e0e-40cb59290b85")
-		)
-		(pin "1"
-			(uuid "ad615512-4a85-4cd1-9582-08b99eba369b")
-		)
-		(instances
-			(project "Balanca2"
-				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
-					(reference "JP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 24.13 60.96 180)
 		(unit 1)
@@ -17706,7 +17674,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 105.41 204.978 90)
 			(hide yes)
 			(show_name no)
@@ -17749,6 +17717,88 @@
 			(project "Balanca2"
 				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 76.2 43.18 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fc299191-32e3-421f-bcfb-10bb82046123")
+		(property "Reference" "C18"
+			(at 80.01 44.4501 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 80.01 41.9101 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 75.2348 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 76.2 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "801c2ee4-71fd-4081-b2cf-0dcc3de32f40")
+		)
+		(pin "1"
+			(uuid "a22112cb-3fe6-4ced-89ef-e0754d2623d6")
+		)
+		(instances
+			(project "Balanca2"
+				(path "/17706263-dff1-405c-96f5-c6c41b8cc07f"
+					(reference "C18")
 					(unit 1)
 				)
 			)
