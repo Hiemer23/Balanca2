@@ -6340,16 +6340,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 203.2) (xy 91.44 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97659b6a-f785-4ab5-9151-f71eaccabf9c")
-	)
-	(wire
-		(pts
 			(xy 149.86 119.38) (xy 152.4 119.38)
 		)
 		(stroke
@@ -6397,6 +6387,16 @@
 			(type default)
 		)
 		(uuid "9f93875b-8e48-4479-943b-ef282d727878")
+	)
+	(wire
+		(pts
+			(xy 91.44 203.2) (xy 92.71 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a29df5b4-3fd5-482c-9d0d-d380bd9f715f")
 	)
 	(wire
 		(pts
@@ -7400,8 +7400,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 96.52 203.2 90)
-		(mirror x)
+		(at 96.52 203.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7411,7 +7410,7 @@
 		(dnp no)
 		(uuid "013e1b61-50a0-4813-b9ff-a7bdcd15a2f9")
 		(property "Reference" "RV1"
-			(at 95.2499 200.66 0)
+			(at 97.7901 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7422,7 +7421,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 97.7899 200.66 0)
+			(at 95.2501 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13682,7 +13681,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 203.2 90)
+		(at 87.63 203.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13693,7 +13692,7 @@
 		(fields_autoplaced yes)
 		(uuid "95ee3853-6c67-4486-99a0-fe686d3707bd")
 		(property "Reference" "R11"
-			(at 106.6801 205.74 0)
+			(at 88.9001 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13704,7 +13703,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 104.1401 205.74 0)
+			(at 86.3601 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13714,8 +13713,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 105.41 204.978 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 87.63 204.978 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13726,7 +13725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 203.2 0)
+			(at 87.63 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13737,7 +13736,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 203.2 0)
+			(at 87.63 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16877,7 +16876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 			(at 74.93 140.208 90)
 			(hide yes)
 			(show_name no)
@@ -17675,7 +17674,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 87.63 203.2 90)
+		(at 105.41 203.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17686,7 +17685,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5b9ca57-0396-4633-91b3-404dbc709c72")
 		(property "Reference" "R10"
-			(at 88.9001 205.74 0)
+			(at 106.6801 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17697,7 +17696,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 86.3601 205.74 0)
+			(at 104.1401 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17707,8 +17706,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 87.63 204.978 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 105.41 204.978 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17719,7 +17718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 203.2 0)
+			(at 105.41 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17730,7 +17729,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 87.63 203.2 0)
+			(at 105.41 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
