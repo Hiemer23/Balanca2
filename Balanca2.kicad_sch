@@ -5415,6 +5415,12 @@
 		(uuid "489a6c53-3167-4f1b-996c-db919380c2f4")
 	)
 	(junction
+		(at 153.67 226.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d5ec39a-ba94-4b7d-bf94-d30b4b8884da")
+	)
+	(junction
 		(at 213.36 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5479,6 +5485,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91b6a9b0-70b8-474e-9ce1-cfc389c768b0")
+	)
+	(junction
+		(at 165.1 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adf5eb63-8f59-4b0a-be09-88ebaa9011a6")
 	)
 	(junction
 		(at 69.85 121.92)
@@ -5740,7 +5752,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 226.06) (xy 165.1 237.49)
+			(xy 165.1 226.06) (xy 165.1 231.14)
 		)
 		(stroke
 			(width 0)
@@ -5767,6 +5779,16 @@
 			(type default)
 		)
 		(uuid "26778a76-28a8-4e91-87bc-cef32f6ce77f")
+	)
+	(wire
+		(pts
+			(xy 153.67 226.06) (xy 153.67 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27f33615-6fec-4c90-8348-93c1ce1ba16c")
 	)
 	(wire
 		(pts
@@ -6700,6 +6722,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 231.14) (xy 165.1 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1f1f202-292c-4426-9cff-1bb4a4fde334")
+	)
+	(wire
+		(pts
 			(xy 26.67 121.92) (xy 26.67 124.46)
 		)
 		(stroke
@@ -6897,6 +6929,16 @@
 			(type default)
 		)
 		(uuid "f79b4be8-79f8-4432-8d3d-9adfd351d5ba")
+	)
+	(wire
+		(pts
+			(xy 165.1 231.14) (xy 165.1 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f949d4fb-bb9b-4e4b-9241-7ea590d2ed36")
 	)
 	(wire
 		(pts
@@ -7157,6 +7199,16 @@
 			(justify right bottom)
 		)
 		(uuid "a2f579ac-e7b5-4019-9b39-44bd188a51b6")
+	)
+	(label "CelulaCargaAlimentacaoV+x"
+		(at 165.1 237.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a42a10f9-bbff-48d0-980f-b43a28f0e29e")
 	)
 	(label "Sense-"
 		(at 72.39 151.13 0)
@@ -10941,7 +10993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TestPoint_Bridge_Pitch6.35mm_Drill1.3mm"
+		(property "Footprint" "Library:TestPoint_Bridge_Pitch7.62mm_Drill1.3mm"
 			(at 158.75 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -13763,7 +13815,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 87.63 204.978 90)
 			(hide yes)
 			(show_name no)
@@ -17674,7 +17726,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 105.41 204.978 90)
 			(hide yes)
 			(show_name no)

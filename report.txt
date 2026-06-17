@@ -1,0 +1,4 @@
+Foi plotado para '/home/andrey/Documentos/ifrs/11Sem/Instrumentacao/Bal2Novo/Balanca2/Gerbers/Balanca2-B_Cu.gbr'.
+Foi plotado para '/home/andrey/Documentos/ifrs/11Sem/Instrumentacao/Bal2Novo/Balanca2/Gerbers/Balanca2-Edge_Cuts.gbr'.
+Arquivo de trabalho do Gerber '/home/andrey/Documentos/ifrs/11Sem/Instrumentacao/Bal2Novo/Balanca2/Gerbers/Balanca2-job.gbrjob' foi criado.
+Informação: Feito.
